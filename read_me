@@ -1,5 +1,11 @@
 input and output
 
-1. 1, 5, 2  (8)
+   1. 1, 5, 2  (8)
 
-2. 1, 1000, 999 (2000)
+   2. 1, 1000, 999 (2000)
+   
+conditional statements
+
+  1. n=5  five
+  
+  2. n=1  one
